@@ -1,0 +1,5 @@
+Question,Responses,Mapped_Values
+How comfortable are you with the security measures?,"['Very Uncomfortable', 'Uncomfortable', 'Slightly Uncomfortable', 'Comfortable', 'Very Comfortable']","[1, 2, 3, 4, 5]"
+How concerned are you about privacy?,"['Very Concerned', 'Concerned', 'Slightly Concerned']","[1, 2, 3]"
+How important are the security measures?,"['Slightly Important', 'Important', 'Very Important']","[3, 4, 5]"
+How satisfied are you with the overall experience?,"['Very Dissatisfied', 'Dissatisfied', 'Neutral', 'Satisfied', 'Very Satisfied']","[1, 2, 3, 4, 5]"
